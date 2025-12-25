@@ -1,64 +1,16 @@
 {
   "version": 1,
-  "base_track": "アンチユー",
-  "base_artist": "MORE MORE JUMP!",
-  "createdAt": "2025-12-01T07:47:33.152948Z",
+  "base_track": "アンチユー（feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ）",
+  "base_artist": "MORE MORE JUMP！",
+  "createdAt": "2025-12-25T17:03:03.256997Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "アンチユー",
-      "artist": "Chinozo",
-      "has_synced": true,
-      "path": "select/01_アンチユー_Chinozo.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "アンチユー",
-      "artist": "MORE MORE JUMP!",
-      "has_synced": true,
-      "path": "select/02_アンチユー_MORE_MORE_JUMP!.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "untune",
-      "artist": "真っ白なキャンバス",
-      "has_synced": false,
-      "path": "select/pl_01_untune_真っ白なキャンバス.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "アンチユー (feat. 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫 & 巡音ルカ)",
-      "artist": "真っ白なキャンバス",
-      "has_synced": false,
-      "path": "select/pl_02_アンチユー_(feat._花里みのり,_桐谷遥,_桃井愛莉,_日野森雫_&_巡音ルカ)_真っ白なキャンバス.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
       "title": "アンチユー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
-      "artist": "真っ白なキャンバス",
+      "artist": "MORE MORE JUMP!",
       "has_synced": false,
-      "path": "select/pl_03_アンチユー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_真っ白なキャンバス.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "アンチユー",
-      "artist": "真っ白なキャンバス",
-      "has_synced": false,
-      "path": "select/pl_04_アンチユー_真っ白なキャンバス.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "anchusa",
-      "artist": "真っ白なキャンバス",
-      "has_synced": false,
-      "path": "select/pl_05_anchusa_真っ白なキャンバス.txt"
+      "path": "select/pl_01_アンチユー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.txt"
     }
   ]
 }
